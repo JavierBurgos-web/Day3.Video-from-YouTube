@@ -5,7 +5,7 @@ El objetivo es visualizar un video de YouTube en la consola en que estemos traba
 
 
 ## Autor ~
-** Javier Elohim Burgos Chaguezac**
+**Javier Elohim Burgos Chaguezac**
 
 * [LinkedIn](https://www.linkedin.com/in/javierburgos-web/)
 * [Instagram](https://www.instagram.com/ing.jburgos/)
