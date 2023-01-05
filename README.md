@@ -19,7 +19,7 @@ El objetivo es visualizar un video de YouTube en la consola en que estemos traba
 ## Instalación 📦📥
 Este proyecto no necesita de instalación. Puedes copiar el codigo y ejecutarlo en https://colab.research.google.com
 
-## Contratación ✍🏻
+## Contratación 👥🤝🏻
 Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu equipo o crees que puedo enseñarte algo; estoy al alcance de un mensaje.     
 📧  ing.burgoschaguezac@gmail.com
 
