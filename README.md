@@ -1,9 +1,6 @@
 ## Descripción📋
-
-
 Este es un archivo creado con leguaje Python.
 El objetivo es visualizar un video de YouTube en la consola en que estemos trabajando, por ejemplo google colaboratory.
-
 
 ## Autor ✍🏻
 **Javier Elohim Burgos Chaguezac**
