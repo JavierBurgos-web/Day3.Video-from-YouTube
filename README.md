@@ -1,4 +1,4 @@
-## Descripción📋🗒️📄📑©️
+## Descripción📋🗒️📄📑
 
 Este es un archivo creado con leguaje Python.
 El objetivo es visualizar un video de YouTube en la consola en que estemos trabajando, por ejemplo google colaboratory.
@@ -22,4 +22,4 @@ Si piensas que podemos colaborar en algún proyecto, que puedo ser parte de tu e
 
 ## Licencia
 MIT Public License v3.0
-No puede usarse comercialmente.
+No puede usarse comercialmente. ©️
